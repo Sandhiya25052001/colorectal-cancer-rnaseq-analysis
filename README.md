@@ -407,7 +407,7 @@ These genes represent transcriptional alterations associated with colorectal tum
 
 # PCA Analysis
 
-![PCA Plot](results/DEGs/PCA_plot.png)
+![PCA Plot](result/PCA_plot.png)
 
 Your PCA plot shows:
 
@@ -430,7 +430,8 @@ This separation validates that the tumor transcriptome is significantly altered 
 
 # Volcano Plot Interpretation
 
-![Volcano Plot](results/DEGs/volcano_plot.png)
+![Volcano Plot](result/Volcano_clean.png)
+
 
 The volcano plot highlights genes that are significantly upregulated or downregulated.
 
@@ -502,7 +503,7 @@ Genes such as **RBM24** and **MT1M** are known to participate in cellular prolif
 
 # Heatmap Interpretation
 
-![Heatmap](results/DEGs/heatmap_top_genes.png)
+![Heatmap](result/Heatmap_Top30.png)
 
 The heatmap shows the top differentially expressed genes across samples.
 
@@ -518,7 +519,7 @@ The clustering pattern clearly separates tumor and normal samples, reinforcing t
 
 # Hallmark Pathway Enrichment (GSEA)
 
-![GSEA Enrichment Plot](results/GSEA/enrichment_plot.png)
+![Hallmark](result/GSEA_Hallmark_Dotplot.png)
 
 Gene Set Enrichment Analysis using **MSigDB Hallmark pathways** identified several significantly enriched pathways.
 
@@ -550,7 +551,7 @@ Activation of the **epithelial–mesenchymal transition (EMT)** pathway suggests
 
 # Example Enrichment Plot Interpretation
 
-![E2F Enrichment](results/GSEA/E2F_enrichment.png)
+![E2F](result/GSEA_E2F_Targets.png)
 
 The enrichment plot for **E2F Targets** demonstrates that genes associated with cell cycle regulation are predominantly located at the top of the ranked gene list.
 
