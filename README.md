@@ -581,7 +581,7 @@ These findings collectively highlight dysregulation of cell cycle control and on
 
 ---
 
-# Final Project Interpretation (One-line Summary)
+# Project Interpretation
 
 This RNA-seq analysis identified **125 significant genes** and key oncogenic pathways (**MYC, E2F, G2M checkpoint, DNA repair, EMT**) that distinguish colorectal tumor samples from normal colon tissue, providing insights into transcriptional programs associated with colorectal cancer progression.
 
